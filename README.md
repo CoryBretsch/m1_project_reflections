@@ -48,10 +48,15 @@
 
 #### Write a 1-2 sentence synopsis of what this project does:
 
+
+
 ### Reflection Questions: 
 **1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
-**2. What was the benefit of using TDD while building out this project?**<br />
-**3. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
+**2. What was hard about working with code you did not write?**<br />
+**3. What was easier than you expected about jumping in to an unfamiliar codebase? What made it easy? If nothing felt easy, what would’ve helped you feel more comfortable more quickly?**<br />
+**4. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
+**5. What was the benefit of using TDD while building out this project?**<br />
+**6. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
 
 ## Paired Paired
 

@@ -1,13 +1,15 @@
 # M1 Interview Prep - Project Log
 
-## Warmup Project 
+## Credit Check
 
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. RSpec
+2. Pry
+3. Git
+4. GitHub
+5. 
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
@@ -18,14 +20,15 @@
 **3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br />
 **4. What was the benefit of using TDD while building out this project?**<br />
 
-## First Solo
+## War or Peace
 
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. RSpec
+2. Pry
+3. Git
+4. GitHub
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:

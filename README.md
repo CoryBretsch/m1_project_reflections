@@ -1,6 +1,6 @@
 # M1 Interview Prep - Project Log
 
-## Credit Check
+## credit_check
 
 ### Project Overview
 
@@ -9,8 +9,6 @@
 2. Pry
 3. Git
 4. GitHub
-5. 
-...
 
 #### Write a 1-2 sentence synopsis of what this project does:
 
@@ -20,7 +18,7 @@
 **3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br />
 **4. What was the benefit of using TDD while building out this project?**<br />
 
-## War or Peace
+## war_or_peace
 
 ### Project Overview
 
@@ -29,7 +27,6 @@
 2. Pry
 3. Git
 4. GitHub
-...
 
 #### Write a 1-2 sentence synopsis of what this project does:
 
@@ -38,15 +35,16 @@
 **2. What was your process when you got stuck?**<br />
 **3. If you had to do this project again, what would you do differently and why?**<br />
 
-## Second Solo
+## the_dmv
 
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
-...
+1. Faraday
+2. RSpec
+3. Pry
+4. Git
+5. GitHub
 
 #### Write a 1-2 sentence synopsis of what this project does:
 

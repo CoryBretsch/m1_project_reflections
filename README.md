@@ -58,15 +58,16 @@
 **5. What was the benefit of using TDD while building out this project?**<br />
 **6. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
 
-## Paired Paired
+## battleship
 
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
-...
+1. Simplecov
+2. Rspec
+3. Github
+4. Pry
+5. Git
 
 #### Write a 1-2 sentence synopsis of what this project does:
 
